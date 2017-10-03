@@ -1,3 +1,17 @@
 h1 {
-  color: red;
+  color: #EAC197;
+  background: linear-gradient(#6B6B86, #4D4D61);
+  font-family: helvetica;
+}
+
+.webpage {
+  text-align: center;
+}
+
+.skillset {
+  text-align: right;
+}
+
+.portfolio {
+  text-align: center;
 }

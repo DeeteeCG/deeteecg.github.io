@@ -23,3 +23,20 @@ h1 {
 .portfolio {
   text-align: center;
 }
+
+a#icon:link{
+  color: white
+}
+
+a#icon:visited{
+  color: purple
+}
+
+
+a#icon:hovor{
+  color: grey
+}
+
+a#icon:active {
+  color:blue
+}
